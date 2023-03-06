@@ -4,7 +4,13 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "BitBot": "github:4tronix/bitbot#1.5.5",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.4",
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.1.0",
+        "servo": "*",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.1"
     },
     "files": [
         "main.blocks",
